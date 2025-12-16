@@ -18,12 +18,11 @@
 </a>
 <br>
 
-- :school: I am a `Senior` at `Faculty of Computers & Informatics`.
+- :briefcase: I am a Frontend Engineer at `Intella`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
 - :nerd_face: Always `learning new things`.
-- :nerd_face: I’m currently learning `React`.
-- :computer: How to reach me [Email](bishoylabib78@gmail.com).
+- :computer: How to reach me [Email](bishoylabib100@gmail.com).
 
 ## 🛠️ My Skills
 
