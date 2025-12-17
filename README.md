@@ -5,8 +5,8 @@
 
 <div align="center">
 	
-[![Profile Views](https://komarev.com/ghpvc/?username=BishoyLabib7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/BishoyLabib7)
-[![GitHub Followers](https://img.shields.io/github/followers/BishoyLabib7?style=social)](https://github.com/BishoyLabib7)
+[![Profile Views](https://komarev.com/ghpvc/?username=bichoy-labib&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bichoy-labib)
+[![GitHub Followers](https://img.shields.io/github/followers/bichoy-labib?style=social)](https://github.com/bichoy-labib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishoy-labib-2888a0232)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:bishoylabib78@gmail.com)
 
